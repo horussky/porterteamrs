@@ -1,0 +1,110 @@
+
+#header.home, 
+#header.sell {
+	background: linear-gradient(to right, #fff 5%, transparent, transparent)
+}
+
+body,html {
+   height:100%;
+}
+
+body{
+	line-height: 1.6;
+}
+
+.btn-primary{
+    background-color: #820d11!important;
+    color: white;
+}
+
+.btn-primary:hover{
+    background-color: #63090c!important;
+    color: white!important;
+}
+
+body.article-detail section.article-body a {
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.inner-main-content a,
+.inner-main-content p a {
+    color: #017698;
+    font-weight: 500;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.inner-main-content a:hover,
+.inner-main-content p a:hover {
+    color: #005760
+}
+
+.inner-main-content .btn,
+.inner-main-content p .btn {
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#header,
+#header.home,
+#header.sell{
+    height: auto;
+}
+
+li {
+    padding-bottom: 1rem;
+}
+
+.media-card-social ul li{
+	padding-bottom: 0;
+}
+
+.h3, 
+.h4, 
+.h5, 
+.h6, 
+h3, 
+h4, 
+h5, 
+h6 {
+	line-height: 1.4;
+}
+
+.post-detail h2 {
+    border-bottom: none;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.listing-detail h3, 
+.post-detail h3 {
+    font-size: 1.3em;
+    margin: 0 0 16px;
+    padding: 0;
+}
+
+
+.footer-top-right {
+    font-size: 12px;
+    line-height: 1.4;
+}
+
+.footer-top-right p {
+    color: #b1b1b1!important;
+}
+
+.footer-top-right img {
+    margin-right: 16px;
+    margin-bottom: 0;
+    float: left;
+    height: auto;
+    max-width: 100px;
+    width: 100%;
+}
